@@ -11,4 +11,7 @@ export class HomePage {
 
   }
 
+  myfunction() {
+    console.log('Function is working');
+  }
 }
